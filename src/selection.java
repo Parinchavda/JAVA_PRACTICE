@@ -6,8 +6,6 @@
 import java.util.Scanner;
 
 public class selection {
-    public selection() {
-    }
 
     public static void printarray(int[] arr) {
         System.out.println("sorted array =>");
